@@ -15,7 +15,7 @@ var singleWords = [ "accordingly", "additionally", "afterward", "afterwards", "a
 var multipleWords = [ "above all", "after all", "after that", "all in all", "all of a sudden", "all things considered",
 	"analogous to", "although this may be true", "analogous to", "another key point", "as a matter of fact", "as a result",
 	"as an illustration", 	"as can be seen", "as has been noted", "as I have noted", "as I have said", "as I have shown",
-	"as long as", "as much as", "as shown above", "as soon as", "as well as", "at any rate", "at first", "at last",
+	"as long as", "as much as", "as shown above", "as soon as", "as such", "as well as", "at any rate", "at first", "at last",
 	"at least", "at length", "at the present time", "at the same time", "at this instant", "at this point", "at this time",
 	"balanced against", "being that", "by all means", "by and large", "by comparison", "by the same token", "by the time",
 	"compared to", "be that as it may", "coupled with", "different from", "due to", "equally important", "even if",
